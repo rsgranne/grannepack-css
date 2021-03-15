@@ -2,7 +2,7 @@
   "name": "grannepack-css",
   "displayName": "GrannePack CSS",
   "description": "CSS-related extensions for Scott Granneman’s Web Dev courses",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "publisher": "granneman",
   "author": {
     "name": "Scott Granneman",
@@ -35,8 +35,7 @@
     "CoenraadS.bracket-pair-colorizer-2",
     "dweber019.vscode-style-formatter",
     "eg2.vscode-npm-script",
-    "pranaygp.vscode-css-peek",
-    "ritwickdey.live-sass",
+    "glenn2223.live-sass",
     "Zignd.html-css-class-completion"
   ]
 }
